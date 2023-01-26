@@ -7,8 +7,8 @@ This repo is a template for starting a new Hardhat project.
 ## Getting Started
 
 ```
-git clone https://github.com/EridianAlpha/template-hardhat
-cd template-hardhat
+git clone https://github.com/EridianAlpha/hardhat-template
+cd hardhat-template
 yarn upgrade --latest
 ```
 
